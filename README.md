@@ -6,6 +6,6 @@ This started off as an assignment for the University of Michigan's Final Project
 
 I decided to compare the San Diego COVID-19 Case Counts with the stock prices of a San Diego-based company, and Illumina, Inc. (ILMN) happens to fit the bill. Illumina happens to be one of the top biotechnology companies in the world 
 
-The goal is to chart a quick comparison and visual to see the rising San Diego COVID-19 Case Counts as of April 1st to the stock prices of Illumina (ILMN). The stock prices are from January to April 1st of 2020. Data taken from [Nasdaq.com](https://www.nasdaq.com/).
+The goal is to chart a quick comparison and visual to see the rising San Diego COVID-19 case counts as of April 1st to the stock prices of Illumina (ILMN). The stock prices are from January to April 1st of 2020. Data taken from [Nasdaq.com](https://www.nasdaq.com/).
 
 ![Illumina vs SD COVID-19](images/illumina-stock-vs-sd-covid-counts.png)
