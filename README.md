@@ -1,4 +1,4 @@
-# 2020-Illumina-Inc-Stock-Prices-ILMN-vs-San-Diego-COVID-19-Case-Counts
+# 2020 Illumina Inc Stock Prices (ILMN) vs San Diego COVID-19 Case Counts
 
 ## Background
 
