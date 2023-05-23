@@ -8,4 +8,6 @@ I decided to compare the San Diego COVID-19 Case Counts with the stock prices of
 
 The goal is to chart a quick comparison and visual to see the rising San Diego COVID-19 case counts as of April 1st to the stock prices of Illumina (ILMN). The stock prices are from January to April 1st of 2020. Data taken from [Nasdaq.com](https://www.nasdaq.com/).
 
+While we can see that Illumina's stock prices dip leading up to the COVID pandemic, we actually also begin seeing Illumina's stock prices rise back up concurrently alongside more and more COVID cases.
+
 ![Illumina vs SD COVID-19](images/illumina-stock-vs-sd-covid-counts.png)
